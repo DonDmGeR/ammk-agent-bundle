@@ -1,0 +1,10 @@
+{
+  "name": "fun-fact-agent",
+  "version": "1.0.0",
+  "description": "Ein Test-Agent, der unnützes Wissen verbreitet.",
+  "author": "DonDmG",
+  "components": {
+    "personas": ["persona.md"],
+    "skills": ["skill-facts.md"]
+  }
+}
